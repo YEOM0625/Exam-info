@@ -79,13 +79,13 @@
 - 미들웨어(Middleware)분석
 	- 개념: 중간에서 매개 역할을 하는 소프트웨어
 	- 종류★ 
-	\1. 원격 프로시저 호출(Remote Procedure Call) : 클라이언트가 원격에서 동작하는 프로시저를 호출하는 시스템<br><br>
-	\2. 메시지 지향 미들웨어(Message Oriented Middleware) : 다른 업무를 지속할 수 있도록 하는 비동기식 미들웨어<br><br>
-	\3. ORB(Object Request Broker) : 객체지향 시스템에서 객체 및 서비스를 요청하고 전송할 수 있도록 지원하는 미들웨어<br><br>
-	\4. DB 접속 미들웨어 : 애플리케이션과 데이터베이스 서버를 연결해 주는 미들웨어<br><br>
-	\5. TP 모니터(Transaction Processing Monitor) : 분산 시스템의 애플리케이션을 지원하는 미들웨어/ 트랜잭션이 올바르게 처리되고 있는지 데이터를 감시하고 제어<br><br>
-	\6. 웹 어플리케이션 서버(Web Application Server) : 웹 애플리케이션을 지원하는 미들웨어 ex) 톰캣, 제우스 등.<br><br>
-	\7. 엔터프라이즈 서비스 버스(Enterprise Service Bus) : 메시지 기반으로 기업 안팎에 있는 모든 시스템 환경을 연동하는 미들웨어.<br><br>
+	1. 원격 프로시저 호출(Remote Procedure Call) : 클라이언트가 원격에서 동작하는 프로시저를 호출하는 시스템<br><br>
+	2. 메시지 지향 미들웨어(Message Oriented Middleware) : 다른 업무를 지속할 수 있도록 하는 비동기식 미들웨어<br><br>
+	3. ORB(Object Request Broker) : 객체지향 시스템에서 객체 및 서비스를 요청하고 전송할 수 있도록 지원하는 미들웨어<br><br>
+	4. DB 접속 미들웨어 : 애플리케이션과 데이터베이스 서버를 연결해 주는 미들웨어<br><br>
+	5. TP 모니터(Transaction Processing Monitor) : 분산 시스템의 애플리케이션을 지원하는 미들웨어/ 트랜잭션이 올바르게 처리되고 있는지 데이터를 감시하고 제어<br><br>
+	6. 웹 어플리케이션 서버(Web Application Server) : 웹 애플리케이션을 지원하는 미들웨어 ex) 톰캣, 제우스 등.<br><br>
+	7. 엔터프라이즈 서비스 버스(Enterprise Service Bus) : 메시지 기반으로 기업 안팎에 있는 모든 시스템 환경을 연동하는 미들웨어.<br><br>
 
 - 요구 공학
   - 개념: 소프트웨어의 요구사항을 식별, 분석, 문서화, 관리 하는 과정.
